@@ -51,7 +51,7 @@ const onValueChange =(e)=>{
 
 const addAppointmentDetails = async()=>{
     await addAppointment(details);
-    navigate("/add");
+    navigate("/");
 
 }
 
