@@ -1,0 +1,13 @@
+.heading{
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.hero{
+    background-color: #fdfffc;
+background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
+padding-bottom: 50px;
+padding-top: 20px;
+}
